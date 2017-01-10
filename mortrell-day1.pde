@@ -9,6 +9,6 @@ void draw () {
   } else {
     fill (255);
   }
-  ellipse (mouseX, mouseY, 50, 50);
+  rect (mouseX, mouseY, 50, 50);
   
 }mortrell
